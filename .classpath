@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/JARS/spring-jdbc-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/jars/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-aop-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-aspects-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-beans-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-context-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-context-indexer-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-context-support-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-core-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-expression-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-instrument-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-jcl-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-jdbc-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-jms-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-messaging-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-orm-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-oxm-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-test-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-tx-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-web-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-webflux-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-webmvc-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/javasoftwares/spring.jars/spring-websocket-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/dev/jars/junit5-engine-5.0.0-ALPHA.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
